@@ -6,5 +6,13 @@ any questions? dm @fade1079 on discord
 
 TO DO:
 Fix Animations with the toggle switches
+
 Add Toggle Switches to other tabs
+
+
+OPTIONAL TO DO:
 and more like hooking and stuff!
+
+Make it dragable
+
+idk, more things?
